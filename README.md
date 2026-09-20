@@ -2,35 +2,27 @@
 
 A full-stack e-commerce web application built using **Java Spring Boot, MySQL, HTML, CSS, and JavaScript**.
 
+
 ## 📸 Screenshots
 
 ### 🏠 Home
-
-![Home](screenshots/home.png)
+![Home](screenshots/Home%20Page.png)
 
 ### 🛍️ Products
-
-![Products](screenshots/products.png)
-
-### 📦 Product Details
-
-![Product Details](screenshots/product-details.png)
+![Products](screenshots/Products.png)
 
 ### 🛒 Cart
-
-![Cart](screenshots/cart.png)
+![Cart](screenshots/Cart%20Page.png)
 
 ### 🔐 Login
-
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### 📝 Register
-
-![Register](screenshots/register.png)
+![Register](screenshots/Register.png)
 
 ### 📋 Orders
+![Orders](screenshots/Orders.png)
 
-![Orders](screenshots/orders.png)
 
 ## ✨ Features
 

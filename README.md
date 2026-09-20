@@ -5,6 +5,12 @@ A full-stack e-commerce web application built using **Java Spring Boot, MySQL, H
 
 ## 📸 Screenshots
 
+### 📝 Register
+![Register](screenshots/Register.png)
+
+### 🔐 Login
+![Login](screenshots/Login.png)
+
 ### 🏠 Home
 ![Home](screenshots/Home%20Page.png)
 
@@ -13,12 +19,6 @@ A full-stack e-commerce web application built using **Java Spring Boot, MySQL, H
 
 ### 🛒 Cart
 ![Cart](screenshots/Cart%20Page.png)
-
-### 🔐 Login
-![Login](screenshots/Login.png)
-
-### 📝 Register
-![Register](screenshots/Register.png)
 
 ### 📋 Orders
 ![Orders](screenshots/Orders.png)
